@@ -1,0 +1,19 @@
+header{
+    margin: 0;
+    padding: 50px;
+    height: 400px;
+    background-image: url(food/steak.png);
+    font-family:'Courier New', Courier, monospace;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.food_menu{
+    background-color: lightskyblue;
+    width: 500px;
+    border: 5px solid orange;
+    border-radius: 25px;
+    margin: 30px 5px;
+    padding:10px;
+    box-shadow: 15px 15px 100px 20px grey;
+}
